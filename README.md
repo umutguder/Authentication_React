@@ -13,8 +13,8 @@ In order to run the program, after download or pull run
 
 Login 
 
-![Image](https://github.com/umutguder/SPA_Router_React/blob/master/Login.PNG)
+![Image](https://github.com/umutguder/Authentication_React/blob/master/Login.PNG)
 
 Change Password:
 
-![Image](https://github.com/umutguder/SPA_Router_React/blob/master/Change Password.PNG)
+![Image](https://github.com/umutguder/Authentication_React/blob/master/Change Password.PNG)
