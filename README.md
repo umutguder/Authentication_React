@@ -17,4 +17,4 @@ Login
 
 Change Password:
 
-![Image](https://github.com/umutguder/Authentication_React/blob/master/Change Password.PNG)
+![Image](https://github.com/umutguder/Authentication_React/blob/master/changePassword.PNG)
