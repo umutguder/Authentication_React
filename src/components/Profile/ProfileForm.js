@@ -4,6 +4,7 @@ import AuthContext from "../../store/auth-context";
 import classes from "./ProfileForm.module.css";
 
 import { useHistory } from "react-router-dom";
+import Button from "../UI/Button";
 
 const ProfileForm = () => {
   const history = useHistory();
@@ -47,7 +48,7 @@ const ProfileForm = () => {
         />
       </div>
       <div className={classes.action}>
-        <button>Change Password</button>
+        <Button>Change Password</Button>
       </div>
     </form>
   );
